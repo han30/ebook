@@ -1,0 +1,78 @@
+{
+  "kuis" : {
+    "bab 1" : {
+      "nomer 1" : {
+        "jawaban" : "b",
+        "opsi" : {
+          "a" : "rinal",
+          "b" : "fikry",
+          "c" : "hamam",
+          "d" : "farhan"
+        },
+        "soal" : "apakah?"
+      },
+      "nomer 2" : {
+        "jawaban" : "b",
+        "opsi" : {
+          "a" : "rinal",
+          "b" : "fikry",
+          "c" : "hamam",
+          "d" : "farhan"
+        },
+        "soal" : "apakah?"
+      },
+      "nomer 3" : {
+        "jawaban" : "b",
+        "opsi" : {
+          "a" : "rinal",
+          "b" : "fikry",
+          "c" : "hamam",
+          "d" : "farhan"
+        },
+        "soal" : "apakah?"
+      },
+      "nomer 4" : {
+        "jawaban" : "b",
+        "opsi" : {
+          "a" : "rinal",
+          "b" : "fikry",
+          "c" : "hamam",
+          "d" : "farhan"
+        },
+        "soal" : "apakah?"
+      },
+      "nomer 5" : {
+        "jawaban" : "b",
+        "opsi" : {
+          "a" : "rinal",
+          "b" : "fikry",
+          "c" : "hamam",
+          "d" : "farhan"
+        },
+        "soal" : "apakah?"
+      },
+      "nomer 6" : {
+        "jawaban" : "b",
+        "opsi" : {
+          "a" : "rinal",
+          "b" : "fikry",
+          "c" : "hamam",
+          "d" : "farhan"
+        },
+        "soal" : "apakah?"
+      }
+    }
+  },
+  "materi" : {
+    "bab 1" : {
+      "halaman 1" : "Model Hirarki Basis Data (Hierarchical Model)                               Dalam model ini data disusun menurut struktur pohon. Puncak dari herarki disebut dengan root sedangkan entitas atau interface                                di bawahnya dikenal sebagai induk (parent). Entitas induk mempunyai beberapa sub entitsas yang disebut anak (child).                                Entitas dalam model hirarki dilambangkan dengan empat persegi panjang. Sedangkan relasi atau hubungan dengan entitas lain                                dinotasikan dengan garis. Gambar dibawah ini menjelaskan salah satu contoh                               model hirarki basis data level konseptual sistem perkuliahan                               Gambar 28. Model Herarki sistem perkuliahan (level konseptual)",
+      "halaman 2" : "Dari gambar struktur hirarki basis data diatas dapat dibuat struktur pengkodean record data (level fisik)                                untuk setiap entitas beserta hubungan antar. Susuan herarkhi ditujukkan dengan tanda anak panah pada medan data (field)                                yang digunakan sebagai kunci data (primary key, daerah diarsir). Relasi dalam herarkhi model hubungan antar entitas dinyatakan                               dalam satu-banyak(one to many) atau satu – satu (one to one). Kelemahan hararkhi model adalah tidak dapat dilakukan pencarian data                                pada field atribut, misal tidak dapat menampilkan data pda tabel mata kuliah berdasarkan jum_SKS, karena jum_SKS bukan kunci data.                                Masalah ini dapat diatasi dengan mengubah struktur data dengan memberi hubungan khusus (misalnya dengan variabel pointer).                               Gambar 29. Struktur pengkodean record data (model level fisik)",
+      "halaman 3" : "Model Jaringan Basis Data (Network Model).                               Dalam model jaringan entitas induk maupun anak bisa lebih dari dua. Model ini merupakan pengembangan model hirarki.                                Relasi antara entitas dalam network model adalah satu ke satu (one to one) atau satu ke banyak (one to many).                               Gambar 30. Model struktur jaringan basis data                               Dalam network data model tidak diperbolehkan terdapat relasi banyak ke banyak (many to many). Untuk membuat relasi                                many to many dalam network model dibutuhkan entitas perantara yang disebut sebagai rekaman silang (intersection record).                               Dari gambar 11 entitas registrasi adalah merupakan entitas perantara antara etitas mahasiswa dengan entitas mata kuliah",
+      "halaman 4" : "Gambar 31. Organisasi record data pada model jaringan",
+      "nama bab" : "Hierarchical Model"
+    },
+    "bab 2" : {
+      "nama bab" : "Ketergantungan Fungsional"
+    }
+  }
+}
