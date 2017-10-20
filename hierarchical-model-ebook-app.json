@@ -50,16 +50,109 @@
           "d" : "farhan"
         },
         "soal" : "apakah?"
+      }
+      
+    },
+    "bab 2" : {
+      "nomer 1" : {
+        "jawaban" : "b",
+        "opsi" : {
+          "a" : "Perancangan basis data",
+          "b" : "pembentuk karakteristik",
+          "c" : "pembentukan basis data",
+          "d" : "bernilai tunggal"
+        },
+        "soal" : "Yang termasuk dari fungsi atribut adalah?"
+      },
+      "nomer 2" : {
+        "jawaban" : "b",
+        "opsi" : {
+          "a" : "Not null atribut",
+          "b" : "Mandatory dan non mandatory attribute",
+          "c" : "Format baris",
+          "d" : "Atribut turunan"
+        },
+        "soal" : "Berikut yang bukan jenis atribut adalah?"
+      },
+      "nomer 3" : {
+        "jawaban" : "b",
+        "opsi" : {
+          "a" : "alamat",
+          "b" : "Tgl_lahir",
+          "c" : "Kode_pos",
+          "d" : "Alamat_mhs"
+        },
+        "soal" : "Dari table diatas yang termasuk atribut komposit adalah"
+      },
+      "nomer 4" : {
+        "jawaban" : "b",
+        "opsi" : {
+          "a" : "Alamat_mhs",
+          "b" : "Tgl_lahir",
+          "c" : "Alamat",
+          "d" : "Kode_pos"
+        },
+        "soal" : "Dari table diatas yang bukan termasuk atribut sederhana adalah"
+      },
+      "nomer 5" : {
+        "jawaban" : "b",
+        "opsi" : {
+          "a" : "Non mandatory",
+          "b" : "Multivalue",
+          "c" : "Ternary degree",
+          "d" : "Utility"
+        },
+        "soal" : "Yang merupakan klasifikasi relasi berdasarkan derajatnya adalah"
       },
       "nomer 6" : {
         "jawaban" : "b",
         "opsi" : {
-          "a" : "rinal",
-          "b" : "fikry",
-          "c" : "hamam",
-          "d" : "farhan"
+          "a" : "Hubungan antara satu atau lebih entitas",
+          "b" : "Hubungan antara dua entitas",
+          "c" : "Hubungan antara entitas pertama dan entitas kedua",
+          "d" : "Batasan jumlah keterhubungan"
         },
-        "soal" : "apakah?"
+        "soal" : "Apa yang dimaksud dari relationship"
+      },
+      "nomer 7" : {
+        "jawaban" : "b",
+        "opsi" : {
+          "a" : "one to many",
+          "b" : "many to many",
+          "c" : "binary degree",
+          "d" : "one to one"
+        },
+        "soal" : "jenis Cardinality Ratio yang merupakan dimana hubungan antara entitas pertama dan kedua adalah satu berbanding banyak atau banyak berbanding satu adalah "
+      },
+      "nomer 8" : {
+        "jawaban" : "b",
+        "opsi" : {
+          "a" : "entitas yang tergantung dari keberadaan entitas lain",
+          "b" : "entitas cadangan",
+          "c" : "entitas yang tergantung dari jumlah entitas lain",
+          "d" : "entitas gabungan dari entitas lain"
+        },
+        "soal" : "apa yang dimaksud dengan weak entity "
+      },
+      "nomer 9" : {
+        "jawaban" : "b",
+        "opsi" : {
+          "a" : "entitas yang lebih sederhana",
+          "b" : "weak entity karena tergantung penuh pada entitas pegawai",
+          "c" : "merupakan entitas induk",
+          "d" : "entitas yang banyak berbanding satu"
+        },
+        "soal" : "entitas tanggungan adalah"
+      },
+      "nomer 10" : {
+        "jawaban" : "b",
+        "opsi" : {
+          "a" : "No_pem",
+          "b" : "P02",
+          "c" : "Harapan",
+          "d" : "No"
+        },
+        "soal" : "Ketergantungan fungsional dari tabel Pemasok_barang adalah"
       }
     }
   },
